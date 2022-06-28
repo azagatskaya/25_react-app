@@ -9,15 +9,17 @@ const dataOld = [
   ["HTML", 40],
   ["CSS", 40],
   ["SCSS", 20],
+  ["Bootstrap", 7],
   ["JS", 0],
   ["React", 0]
 ];
 
 const dataNew = [
    ["Knowleges", "Degrees"],
-   ["HTML", 25],
-   ["CSS", 25],
-   ["SCSS", 15],
+   ["HTML", 40],
+   ["CSS", 40],
+   ["SCSS", 20],
+   ["Bootstrap", 7],
    ["JS", 20],
    ["React", 5]
 ];
